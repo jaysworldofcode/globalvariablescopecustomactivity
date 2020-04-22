@@ -1,0 +1,5 @@
+C:\Users\RPA-06\Desktop\Git Repos\GlobalVariableScope\GlobalVariableScope\bin\Debug\GlobalVariableScope.dll
+C:\Users\RPA-06\Desktop\Git Repos\GlobalVariableScope\GlobalVariableScope\bin\Debug\GlobalVariableScope.pdb
+C:\Users\RPA-06\Desktop\Git Repos\GlobalVariableScope\GlobalVariableScope\obj\Debug\GlobalVariableScope.csprojAssemblyReference.cache
+C:\Users\RPA-06\Desktop\Git Repos\GlobalVariableScope\GlobalVariableScope\obj\Debug\GlobalVariableScope.dll
+C:\Users\RPA-06\Desktop\Git Repos\GlobalVariableScope\GlobalVariableScope\obj\Debug\GlobalVariableScope.pdb
